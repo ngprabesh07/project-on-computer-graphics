@@ -1,1 +1,1 @@
-# project-on-computer-graphics
+# stickman got accident 
